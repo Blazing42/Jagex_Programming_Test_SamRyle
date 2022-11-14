@@ -16,8 +16,9 @@ namespace Jagex_Programming_Test
                 Console.WriteLine(testString + "= " + tesOutStr);
             }
 
-            string factorialTest = "4!";
-            Console.WriteLine(Calculate(factorialTest));
+            //test
+            /*string factorialTest = "4!";
+            Console.WriteLine(Calculate(factorialTest));*/
         }
 
         static string Calculate(string inputStr)
